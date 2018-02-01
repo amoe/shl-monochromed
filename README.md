@@ -14,7 +14,6 @@ A reset is required.  Skel uses the meyerweb reset, not normalize.
 
 You can find the old website at 
 https://web.archive.org/web/20140629034339/http://www.skeljs.org/
-
-
+https://web.archive.org/web/20140625101230/http://skeljs.org/docs#config-options-breakpoints
 
 Based on Monochromed by [Templated](http://templated.co)
